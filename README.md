@@ -1,6 +1,9 @@
 # DataLake
 
-This repository hosts our datalake implementation
+This repository hosts our datalake implementation.
+
+It consumes events from all services of organisation but as no
+plantuml is present it is not visible. 
 
 This repository is a showcase of newly joined service/repo which has 
 no awareness of Service360 platform and it does not use any of extended
